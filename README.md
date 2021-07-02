@@ -1,0 +1,7 @@
+.env
+
+```
+RESTREVIEWS_DB_URI
+RESTREVIEWS_NS
+PORT
+```
